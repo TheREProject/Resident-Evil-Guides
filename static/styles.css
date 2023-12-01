@@ -21,6 +21,10 @@
 	color: white;
 }
 
+.quote-container{
+	text-align: center;
+}
+
 .nav{
 		list-style: none;
 		text-align: right;
